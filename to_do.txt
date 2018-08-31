@@ -1,1 +1,2 @@
-ansible - do deploymentu zrobic
+-ansible - do deploymentu zrobic
+-jacoco - dodanie wynikow testow pokrycia???
