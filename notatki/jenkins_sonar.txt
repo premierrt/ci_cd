@@ -1,0 +1,16 @@
+jenkins + sonar
+
+https://www.youtube.com/watch?v=tuIZok81iLk
+
+-- ustawienie sciezek narzedzi:
+http://www.tothenew.com/blog/how-to-setup-jenkins-for-a-maven-project/
+
+Execute the SonarQube Scanner for Maven from your computer
+Running a SonarQube analysis with Maven is straighforward. You just need to run the following command in your project's folder.
+
+mvn sonar:sonar \
+  -Dsonar.host.url=http://localhost:9000 \
+  -Dsonar.login=e4948c3319aa64e209ff7d5e444a06cc8caf0f6a
+Please visit the official documentation of the SonarQube Scanner for Maven for more details.
+
+Once the analysis is completed, you will be able to browse your project at the URL displayed at the end of the logs.
