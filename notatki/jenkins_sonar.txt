@@ -1,9 +1,14 @@
 jenkins + sonar
 
-https://www.youtube.com/watch?v=tuIZok81iLk
 
 -- ustawienie sciezek narzedzi:
+https://www.youtube.com/watch?v=tuIZok81iLk
+
 http://www.tothenew.com/blog/how-to-setup-jenkins-for-a-maven-project/
+
+--pipeline as code from scm:
+https://www.youtube.com/watch?v=56jtwSrNvrs
+
 
 Execute the SonarQube Scanner for Maven from your computer
 Running a SonarQube analysis with Maven is straighforward. You just need to run the following command in your project's folder.
